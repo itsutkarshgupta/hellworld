@@ -1,4 +1,4 @@
-/* written by utkarsh gupta
+/* written by utkarsh gupta and submitted on github
    8/12/2021 1:32 AM */
 
 #include<iostream>
@@ -38,4 +38,4 @@ int main(){
     rotate(array,d,n);
     return 0;
 }
-//program ends...
+//program.... end here.
